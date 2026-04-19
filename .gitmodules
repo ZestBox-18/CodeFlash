@@ -1,0 +1,6 @@
+[submodule "codeflash-harmony"]
+	path = codeflash-harmony
+	url = https://github.com/ZestBox-18/codeflash-harmony.git
+[submodule "server/homebrew-codeflash"]
+	path = server/homebrew-codeflash
+	url = https://github.com/ZestBox-18/homebrew-codeflash.git
