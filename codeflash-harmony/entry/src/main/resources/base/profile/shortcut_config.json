@@ -1,0 +1,34 @@
+{
+  "shortcuts": [
+    {
+      "shortcutId": "shortcutID_003",
+      "label": "$string:push_lable",
+      "icon": "$media:push_image",
+      "wants": [
+        {
+          "bundleName": "cn.zestbox.codeFlash",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "testKey": "testValue"
+          }
+        }
+      ]
+    },
+    {
+      "shortcutId": "shortcutID_002",
+      "label": "$string:get_lable",
+      "icon": "$media:get_image",
+      "wants": [
+        {
+          "bundleName": "cn.zestbox.codeFlash",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "testKey": "testValue"
+          }
+        }
+      ]
+    }
+  ]
+}

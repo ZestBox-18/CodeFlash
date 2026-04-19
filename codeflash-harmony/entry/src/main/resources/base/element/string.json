@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CodeFlash"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "Access network to sync clipboard"
+    },
+    {
+      "name": "push_lable",
+      "value": "推送到电脑"
+    },
+    {
+      "name": "get_lable",
+      "value": "获取粘贴板"
+    },
+    {
+      "name": "adhesiveBoard",
+      "value": "用于验证口令"
+    }
+  ]
+}
