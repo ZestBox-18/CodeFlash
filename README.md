@@ -11,7 +11,7 @@
 
 无需登录 · 无需公网 · 局域网秒级同步
 
-[快速开始](#快速开始) · [功能特性](#功能特性) · [常见问题](#常见问题) · [贡献指南](CONTRIBUTING.md)
+[官网](https://codeflash.zestbox.cn/) · [快速开始](#快速开始) · [功能特性](#功能特性) · [常见问题](#常见问题) · [贡献指南](CONTRIBUTING.md)
 
 </div>
 
@@ -432,6 +432,6 @@ pnpm dev
 
 <div align="center">
 
-**[官网](http://codeflash.zestbox.cn/)** · **[GitHub](https://github.com/ZestBox-18/CodeFlash)** · **[Issues](https://github.com/ZestBox-18/CodeFlash/issues)**
+**[官网](https://codeflash.zestbox.cn/)** · **[GitHub](https://github.com/ZestBox-18/CodeFlash)** · **[Issues](https://github.com/ZestBox-18/CodeFlash/issues)**
 
 </div>
